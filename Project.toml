@@ -1,6 +1,6 @@
-name = "cwildhraefn_site"
+name = "QuildtideSite"
 uuid = "d194e6bd-5632-4e5e-ac1a-14f2dae562a7"
-authors = ["cwildhraefn <42811940+cwildhraefn@users.noreply.github.com>"]
+authors = ["quildtide <42811940+quildtide@users.noreply.github.com>"]
 version = "0.1.0"
 
 [deps]

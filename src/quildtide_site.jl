@@ -1,4 +1,4 @@
-module cwildhraefn
+module QuildtideSite
 
 greet() = print("Hello World!")
 
